@@ -42,6 +42,23 @@ public class Loops {
             System.out.println(x);
         }
 
-        //Breaks explained.
+        //switch
+        //gaat case per case zoeken, bij elke case MOET break!
+        int a = 2;
+         switch (a) {
+             case 0:
+                 System.out.println("nul");
+                 break;
+             case 1:
+                 System.out.println("één");
+                 break;
+             case 2:
+                 System.out.println("Twee");
+                 break;
+             default:
+                 System.out.println("iets anders");
+                 break;
+         }
+
     }
 }

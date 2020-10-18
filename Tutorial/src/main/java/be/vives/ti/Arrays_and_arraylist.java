@@ -29,6 +29,8 @@ public class Arrays_and_arraylist {
         //sports.clear();
         System.out.println(sports.size());
         System.out.println(sports);
+        //Generic type casting, wordt gebruikt om gecreeerde objecten op te slaan bv Arraylist<Student> indien we objecten van klasse student willen toevoegen.
+        ArrayList<String> lijst = new ArrayList<String>();
 
         //2D-array
         int [][] location = {{1,2,3},{10,20,30},{100,200,300}};
