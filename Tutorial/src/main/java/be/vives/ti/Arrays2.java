@@ -2,7 +2,7 @@ package be.vives.ti;
 
 import java.util.ArrayList;
 
-public class Arrays_and_arraylist {
+public class Arrays2 {
     public static void main( String[] args )
     {
 
