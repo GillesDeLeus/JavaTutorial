@@ -6,10 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+=======
+        <module name="JavaTutorial" />
+>>>>>>> 671ab01668bc4ad3690d54070197ec3088bc429f
         <module name="Tutorial" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+<<<<<<< HEAD
+=======
+      <module name="JavaTutorial" target="1.5" />
+>>>>>>> 671ab01668bc4ad3690d54070197ec3088bc429f
       <module name="Tutorial" target="1.8" />
     </bytecodeTargetLevel>
   </component>
